@@ -1,3 +1,4 @@
+#! /usr/bin/env ruby
 #Blanket patterns by Jorge Carabali
 
 
